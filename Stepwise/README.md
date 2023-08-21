@@ -18,4 +18,4 @@ El archivo `datossoja.txt` contiene los datos de ejemplo utilizados en el notebo
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu perfil de GitHub](https://github.com/MarkzDG).
+Cualquier pregunta o sugerencia, no dudes en contactarme a través de [tu perfil de GitHub](https://github.com/MarkzDG).
